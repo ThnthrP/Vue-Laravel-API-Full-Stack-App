@@ -48,7 +48,8 @@ To run locally:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/vue-laravel-api-full-stack-app.git
+git clone https://github.com/ThnthrP/Vue-Laravel-API-Full-Stack-App.git
+
 
 # Backend setup
 cd backend
