@@ -10,7 +10,8 @@ The app supports authentication, image upload, labeling, and image management.
 - Frontend: Vue 3 + Vite
 - Backend: Laravel 10 API
 - Authentication: Laravel Sanctum
-- Database: PostgreSQL (Supabase)
+- Database: MySQL (XAMPP)
+- Server: Apache (XAMPP)
 - Styling: Tailwind CSS
 
 ---
